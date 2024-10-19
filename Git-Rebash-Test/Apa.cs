@@ -3,6 +3,8 @@ internal class Apa
 {
     public static void PrintFoo()
     {
-        Console.WriteLine("Foo");
+        Console.Write("F");
+        Console.Write("o");
+        Console.Write("o");
     }
 }
