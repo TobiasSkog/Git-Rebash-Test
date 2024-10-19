@@ -3,6 +3,6 @@ internal class Get
 {
     public static void PrintBar()
     {
-        Console.WriteLine("Apa");
+        Console.WriteLine("Bar");
     }
 }
